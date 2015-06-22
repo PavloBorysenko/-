@@ -1,0 +1,4 @@
+D:\Учеба\KlasCScharp1\KlasCScharp1\bin\Debug\KlasCScharp1.exe
+D:\Учеба\KlasCScharp1\KlasCScharp1\bin\Debug\KlasCScharp1.pdb
+D:\Учеба\KlasCScharp1\KlasCScharp1\obj\x86\Debug\KlasCScharp1.exe
+D:\Учеба\KlasCScharp1\KlasCScharp1\obj\x86\Debug\KlasCScharp1.pdb
