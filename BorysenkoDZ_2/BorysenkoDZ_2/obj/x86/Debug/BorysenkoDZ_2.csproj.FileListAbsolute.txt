@@ -1,0 +1,5 @@
+D:\Учеба\BorysenkoDZ_2\BorysenkoDZ_2\bin\Debug\BorysenkoDZ_2.exe
+D:\Учеба\BorysenkoDZ_2\BorysenkoDZ_2\bin\Debug\BorysenkoDZ_2.pdb
+D:\Учеба\BorysenkoDZ_2\BorysenkoDZ_2\obj\x86\Debug\BorysenkoDZ_2.exe
+D:\Учеба\BorysenkoDZ_2\BorysenkoDZ_2\obj\x86\Debug\BorysenkoDZ_2.pdb
+D:\Учеба\BorysenkoDZ_2\BorysenkoDZ_2\obj\x86\Debug\BorysenkoDZ_2.csprojResolveAssemblyReference.cache
