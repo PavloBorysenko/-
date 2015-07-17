@@ -1,0 +1,4 @@
+D:\Учеба\С#\BorysenkoDZ5\BorysenkoDZ5\bin\Debug\BorysenkoDZ5.exe
+D:\Учеба\С#\BorysenkoDZ5\BorysenkoDZ5\bin\Debug\BorysenkoDZ5.pdb
+D:\Учеба\С#\BorysenkoDZ5\BorysenkoDZ5\obj\x86\Debug\BorysenkoDZ5.exe
+D:\Учеба\С#\BorysenkoDZ5\BorysenkoDZ5\obj\x86\Debug\BorysenkoDZ5.pdb
