@@ -1,0 +1,5 @@
+D:\Учеба\С#\BorysenkoKlassZurn\BorysenkoKlassZurn\bin\Debug\BorysenkoKlassZurn.exe
+D:\Учеба\С#\BorysenkoKlassZurn\BorysenkoKlassZurn\bin\Debug\BorysenkoKlassZurn.pdb
+D:\Учеба\С#\BorysenkoKlassZurn\BorysenkoKlassZurn\obj\x86\Debug\BorysenkoKlassZurn.exe
+D:\Учеба\С#\BorysenkoKlassZurn\BorysenkoKlassZurn\obj\x86\Debug\BorysenkoKlassZurn.pdb
+D:\Учеба\С#\BorysenkoKlassZurn\BorysenkoKlassZurn\obj\x86\Debug\BorysenkoKlassZurn.csprojResolveAssemblyReference.cache
