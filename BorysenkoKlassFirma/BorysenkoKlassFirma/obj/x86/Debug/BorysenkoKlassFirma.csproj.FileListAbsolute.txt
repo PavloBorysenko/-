@@ -1,0 +1,4 @@
+D:\Учеба\С#\BorysenkoKlassFirma\BorysenkoKlassFirma\bin\Debug\BorysenkoKlassFirma.exe
+D:\Учеба\С#\BorysenkoKlassFirma\BorysenkoKlassFirma\bin\Debug\BorysenkoKlassFirma.pdb
+D:\Учеба\С#\BorysenkoKlassFirma\BorysenkoKlassFirma\obj\x86\Debug\BorysenkoKlassFirma.exe
+D:\Учеба\С#\BorysenkoKlassFirma\BorysenkoKlassFirma\obj\x86\Debug\BorysenkoKlassFirma.pdb
