@@ -1,0 +1,4 @@
+D:\Учеба\С#\BorysenkoDZBiocrizis\BorysenkoDZBiocrizis\bin\Debug\BorysenkoDZBiocrizis.exe
+D:\Учеба\С#\BorysenkoDZBiocrizis\BorysenkoDZBiocrizis\bin\Debug\BorysenkoDZBiocrizis.pdb
+D:\Учеба\С#\BorysenkoDZBiocrizis\BorysenkoDZBiocrizis\obj\x86\Debug\BorysenkoDZBiocrizis.exe
+D:\Учеба\С#\BorysenkoDZBiocrizis\BorysenkoDZBiocrizis\obj\x86\Debug\BorysenkoDZBiocrizis.pdb
