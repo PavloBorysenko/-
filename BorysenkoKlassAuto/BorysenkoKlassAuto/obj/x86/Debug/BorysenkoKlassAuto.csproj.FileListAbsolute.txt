@@ -1,0 +1,4 @@
+D:\Учеба\С#\BorysenkoKlassAuto\BorysenkoKlassAuto\bin\Debug\BorysenkoKlassAuto.exe
+D:\Учеба\С#\BorysenkoKlassAuto\BorysenkoKlassAuto\bin\Debug\BorysenkoKlassAuto.pdb
+D:\Учеба\С#\BorysenkoKlassAuto\BorysenkoKlassAuto\obj\x86\Debug\BorysenkoKlassAuto.exe
+D:\Учеба\С#\BorysenkoKlassAuto\BorysenkoKlassAuto\obj\x86\Debug\BorysenkoKlassAuto.pdb
