@@ -1,0 +1,4 @@
+D:\Учеба\С#\BorysenkoDyn\BorysenkoDynamic\PlanMath\bin\Debug\PlanMath.dll
+D:\Учеба\С#\BorysenkoDyn\BorysenkoDynamic\PlanMath\bin\Debug\PlanMath.pdb
+D:\Учеба\С#\BorysenkoDyn\BorysenkoDynamic\PlanMath\obj\Debug\PlanMath.dll
+D:\Учеба\С#\BorysenkoDyn\BorysenkoDynamic\PlanMath\obj\Debug\PlanMath.pdb

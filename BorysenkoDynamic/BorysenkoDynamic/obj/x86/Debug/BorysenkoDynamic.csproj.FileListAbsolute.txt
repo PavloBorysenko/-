@@ -1,0 +1,4 @@
+D:\Учеба\С#\BorysenkoDyn\BorysenkoDynamic\BorysenkoDynamic\bin\Debug\BorysenkoDynamic.exe
+D:\Учеба\С#\BorysenkoDyn\BorysenkoDynamic\BorysenkoDynamic\bin\Debug\BorysenkoDynamic.pdb
+D:\Учеба\С#\BorysenkoDyn\BorysenkoDynamic\BorysenkoDynamic\obj\x86\Debug\BorysenkoDynamic.exe
+D:\Учеба\С#\BorysenkoDyn\BorysenkoDynamic\BorysenkoDynamic\obj\x86\Debug\BorysenkoDynamic.pdb
