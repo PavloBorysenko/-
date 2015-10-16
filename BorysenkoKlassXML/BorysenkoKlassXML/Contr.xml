@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<otchet>
+  <tovar id="0">
+    <quantity>42</quantity>
+  </tovar>
+  <tovar id="1">
+    <quantity>35</quantity>
+  </tovar>
+  <tovar id="2">
+    <quantity>77</quantity>
+  </tovar>
+  <tovar id="3">
+    <quantity>65</quantity>
+  </tovar>
+  <tovar id="4">
+    <quantity>71</quantity>
+  </tovar>
+  <tovar id="5">
+    <quantity>53</quantity>
+  </tovar>
+  <tovar id="6">
+    <quantity>25</quantity>
+  </tovar>
+  <tovar id="7">
+    <quantity>30</quantity>
+  </tovar>
+  <tovar id="8">
+    <quantity>98</quantity>
+  </tovar>
+  <tovar id="9">
+    <quantity>79</quantity>
+  </tovar>
+  <tovar id="10">
+    <quantity>88</quantity>
+  </tovar>
+  <tovar id="11">
+    <quantity>88</quantity>
+  </tovar>
+</otchet>

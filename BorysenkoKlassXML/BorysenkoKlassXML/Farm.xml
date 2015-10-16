@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<sklad>
+  <farm name="Fly cold" price="22,22">
+    <id>0</id>
+    <maker>
+      <cantry>Russia</cantry>
+      <firma>Bolshevik</firma>
+    </maker>
+    <date>
+      <dateM>08.14</dateM>
+      <dateF>08.24</dateF>
+    </date>
+    <quantity>42</quantity>
+  </farm>
+  <farm name="Aspirin" price="34">
+    <id>1</id>
+    <maker>
+      <cantry>England</cantry>
+      <firma>BritFarm</firma>
+    </maker>
+    <date>
+      <dateM>03.15</dateM>
+      <dateF>03.20</dateF>
+    </date>
+    <quantity>35</quantity>
+  </farm>
+  <farm name="Balzam" price="10,12">
+    <id>2</id>
+    <maker>
+      <cantry>India</cantry>
+      <firma>Akipaki</firma>
+    </maker>
+    <date>
+      <dateM>10.10</dateM>
+      <dateF>10.17</dateF>
+    </date>
+    <quantity>77</quantity>
+  </farm>
+  <farm name="Panadol" price="567,05">
+    <id>3</id>
+    <maker>
+      <cantry>Germany</cantry>
+      <firma>Bayer</firma>
+    </maker>
+    <date>
+      <dateM>12.14</dateM>
+      <dateF>12.19</dateF>
+    </date>
+    <quantity>65</quantity>
+  </farm>
+  <farm name="Papazol" price="6,12">
+    <id>4</id>
+    <maker>
+      <cantry>Ucraina</cantry>
+      <firma>Darnica</firma>
+    </maker>
+    <date>
+      <dateM>04.12</dateM>
+      <dateF>04.22</dateF>
+    </date>
+    <quantity>71</quantity>
+  </farm>
+  <farm name="Fitomix" price="35,22">
+    <id>5</id>
+    <maker>
+      <cantry>Niderlandu</cantry>
+      <firma>FitoWorld</firma>
+    </maker>
+    <date>
+      <dateM>01.12</dateM>
+      <dateF>01.18</dateF>
+    </date>
+    <quantity>53</quantity>
+  </farm>
+  <farm name="VitaminA" price="45">
+    <id>6</id>
+    <maker>
+      <cantry>Belorussiya</cantry>
+      <firma>BelZdor</firma>
+    </maker>
+    <date>
+      <dateM>02.13</dateM>
+      <dateF>02.23</dateF>
+    </date>
+    <quantity>25</quantity>
+  </farm>
+  <farm name="Zelyonka" price="54">
+    <id>7</id>
+    <maker>
+      <cantry>Vietnam</cantry>
+      <firma>Sinsu</firma>
+    </maker>
+    <date>
+      <dateM>07.14</dateM>
+      <dateF>07.19</dateF>
+    </date>
+    <quantity>30</quantity>
+  </farm>
+  <farm name="Mumiyo" price="15">
+    <id>8</id>
+    <maker>
+      <cantry>Russia</cantry>
+      <firma>UralRudnik</firma>
+    </maker>
+    <date>
+      <dateM>02.15</dateM>
+      <dateF>02.20</dateF>
+    </date>
+    <quantity>98</quantity>
+  </farm>
+  <farm name="Spirt" price="92">
+    <id>9</id>
+    <maker>
+      <cantry>France</cantry>
+      <firma>Vida</firma>
+    </maker>
+    <date>
+      <dateM>02.13</dateM>
+      <dateF>02.18</dateF>
+    </date>
+    <quantity>79</quantity>
+  </farm>
+  <farm name="H2O3" price="56">
+    <id>10</id>
+    <maker>
+      <cantry>Algir</cantry>
+      <firma>Xerword</firma>
+    </maker>
+    <date>
+      <dateM>09.10</dateM>
+      <dateF>09.16</dateF>
+    </date>
+    <quantity>88</quantity>
+  </farm>
+  <farm name="Pantenol" price="87">
+    <id>11</id>
+    <maker>
+      <cantry>Litva</cantry>
+      <firma>VIK</firma>
+    </maker>
+    <date>
+      <dateM>05.10</dateM>
+      <dateF>05.23</dateF>
+    </date>
+    <quantity>88</quantity>
+  </farm>
+</sklad>

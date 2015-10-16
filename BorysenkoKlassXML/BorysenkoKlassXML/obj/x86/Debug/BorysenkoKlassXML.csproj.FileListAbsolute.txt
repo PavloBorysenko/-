@@ -1,0 +1,5 @@
+D:\Учеба\С#\BorysenkoKlassXML\BorysenkoKlassXML\bin\Debug\BorysenkoKlassXML.exe
+D:\Учеба\С#\BorysenkoKlassXML\BorysenkoKlassXML\bin\Debug\BorysenkoKlassXML.pdb
+D:\Учеба\С#\BorysenkoKlassXML\BorysenkoKlassXML\obj\x86\Debug\BorysenkoKlassXML.exe
+D:\Учеба\С#\BorysenkoKlassXML\BorysenkoKlassXML\obj\x86\Debug\BorysenkoKlassXML.pdb
+D:\Учеба\С#\BorysenkoKlassXML\BorysenkoKlassXML\obj\x86\Debug\BorysenkoKlassXML.csprojResolveAssemblyReference.cache
