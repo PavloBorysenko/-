@@ -1,0 +1,5 @@
+D:\Учеба\С#\BorysenkoKlassFirmaProgram\BorysenkoKlassFirmaProgram\bin\Debug\BorysenkoKlassFirmaProgram.exe
+D:\Учеба\С#\BorysenkoKlassFirmaProgram\BorysenkoKlassFirmaProgram\bin\Debug\BorysenkoKlassFirmaProgram.pdb
+D:\Учеба\С#\BorysenkoKlassFirmaProgram\BorysenkoKlassFirmaProgram\obj\x86\Debug\BorysenkoKlassFirmaProgram.exe
+D:\Учеба\С#\BorysenkoKlassFirmaProgram\BorysenkoKlassFirmaProgram\obj\x86\Debug\BorysenkoKlassFirmaProgram.pdb
+D:\Учеба\С#\BorysenkoKlassFirmaProgram\BorysenkoKlassFirmaProgram\obj\x86\Debug\BorysenkoKlassFirmaProgram.csprojResolveAssemblyReference.cache
