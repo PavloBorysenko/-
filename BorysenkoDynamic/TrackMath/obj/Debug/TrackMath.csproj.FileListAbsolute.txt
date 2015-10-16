@@ -1,4 +1,0 @@
-D:\Учеба\С#\BorysenkoDyn\BorysenkoDynamic\TrackMath\bin\Debug\TrackMath.dll
-D:\Учеба\С#\BorysenkoDyn\BorysenkoDynamic\TrackMath\bin\Debug\TrackMath.pdb
-D:\Учеба\С#\BorysenkoDyn\BorysenkoDynamic\TrackMath\obj\Debug\TrackMath.dll
-D:\Учеба\С#\BorysenkoDyn\BorysenkoDynamic\TrackMath\obj\Debug\TrackMath.pdb
