@@ -1,0 +1,5 @@
+D:\Учеба\С#\BorysenkoDyn\BorysenkoChinaParadise\BorysenkoChinaParadise\bin\Debug\BorysenkoChinaParadise.exe
+D:\Учеба\С#\BorysenkoDyn\BorysenkoChinaParadise\BorysenkoChinaParadise\bin\Debug\BorysenkoChinaParadise.pdb
+D:\Учеба\С#\BorysenkoDyn\BorysenkoChinaParadise\BorysenkoChinaParadise\obj\x86\Debug\BorysenkoChinaParadise.exe
+D:\Учеба\С#\BorysenkoDyn\BorysenkoChinaParadise\BorysenkoChinaParadise\obj\x86\Debug\BorysenkoChinaParadise.pdb
+D:\Учеба\С#\BorysenkoDyn\BorysenkoChinaParadise\BorysenkoChinaParadise\obj\x86\Debug\BorysenkoChinaParadise.csprojResolveAssemblyReference.cache
